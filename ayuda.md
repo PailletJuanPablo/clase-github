@@ -5,10 +5,7 @@ Github utiliza git para ofrecer un servicio en la nube.
 X Repositorios Locales == Copia del repositorio remoto donde vamos a trabajar y que en algún momento se va a sincronizar.
 Subir nuestros cambios
 Descargar los cambios de los demas
-
-
 ---
-
 # Flujo de trabajo
 Subir cambios al repositorio remoto desde el repositorio local
 

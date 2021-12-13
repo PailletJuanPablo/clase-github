@@ -17,9 +17,12 @@ Subir cambios al repositorio remoto desde el repositorio local
 - Autor
 - Commit
 
+0) git init para inicializar repo local
+
 1) git add NOMBRE_ARCHIVO o git add . == Añadir archivos al stage (contenedor de cambios)
 
 
-  
 
 2) Commitearlos == Se añade un texto descriptivo de los cambios que se hicieron
+
+3) Git push

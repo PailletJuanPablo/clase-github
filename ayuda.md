@@ -26,3 +26,11 @@ Subir cambios al repositorio remoto desde el repositorio local
 2) Commitearlos == Se añade un texto descriptivo de los cambios que se hicieron
 
 3) Git push
+
+# Para el clonado
+
+1) Entramos al github de nuestro compalero, damos click en CODE y seleccionamos la opcion de SSH y copiamos la URL.
+
+2) Desde la consola, en una carpeta ejecutamos el comando git clone + la URL que copiamos desde el github de nuestro compañero y damos enter
+
+3) Se generara una nueva carpeta con el repositorio de github que clonamos
